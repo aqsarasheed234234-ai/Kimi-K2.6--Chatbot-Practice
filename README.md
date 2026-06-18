@@ -10,9 +10,7 @@ Before running the project, make sure you have:
 * Python 3.9 or newer
 * A Hugging Face account
 * A Hugging Face Access Token
-
 ---
-
 ## Quick Start
 
 ### 1. Get a Hugging Face Token
