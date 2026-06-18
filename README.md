@@ -19,9 +19,7 @@ Before running the project, make sure you have:
 2. Go to **Settings → Access Tokens**.
 3. Create a new token.
 4. Copy your token.
-
 ---
-
 ### 2. Download the Project
 
 Place these files inside a folder:
@@ -32,11 +30,9 @@ index.html
 requirements.txt
 ```
 ---
-
 ### 3. Open Command Prompt
 
 Open Command Prompt inside your project folder.
-
 ---
 
  Create a Virtual Environment
