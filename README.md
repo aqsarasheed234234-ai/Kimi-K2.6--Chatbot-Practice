@@ -84,9 +84,7 @@ http://127.0.0.1:7860
 ```
 
 You can now chat with Kimi K2.6 and upload images for analysis.
-
 ---
-
 ## Model
 
 ```text
@@ -116,15 +114,11 @@ Close the application using port 7860 or restart your computer.
 ### Invalid Token
 
 Generate a new Hugging Face token and try again.
-
 ---
-
 ## License
 
 MIT License
 
 Made with Python, FastAPI, Gradio, and Kimi K2.6.
-
 ---
-
 Made with ☕ and Python for developers who just want things to work.
