@@ -12,7 +12,6 @@ Before running the project, make sure you have:
 * A Hugging Face Access Token
 ---
 ## Quick Start
-
 ### 1. Get a Hugging Face Token
 
 1. Sign in to Hugging Face.
@@ -21,20 +20,17 @@ Before running the project, make sure you have:
 4. Copy your token.
 ---
 ### 2. Download the Project
-
 Place these files inside a folder:
 
 ```text
 app.py
 index.html
 requirements.txt
-```
----
+```---
 ### 3. Open Command Prompt
 
 Open Command Prompt inside your project folder.
 ---
-
  Create a Virtual Environment
 
 ```cmd
@@ -48,15 +44,12 @@ venv\Scripts\activate
 ```
 
 ---
-
  Install Dependencies
 
 ```cmd
 pip install -r requirements.txt
 ```
-
 ---
-
  Set Your Hugging Face Token
 
 Replace `your_token_here` with your actual Hugging Face token.
@@ -64,17 +57,13 @@ Replace `your_token_here` with your actual Hugging Face token.
 ```cmd
 set HF_TOKEN=your_token_here
 ```
-
 ---
-
  Run the Chatbot
 
 ```cmd
 python app.py
 ```
-
 ---
-
 ## Open the Application
 
 Open your browser and visit:
