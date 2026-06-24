@@ -13,7 +13,6 @@ Before running the project, make sure you have:
 ---
 ## Quick Start
 ### 1. Get a Hugging Face Token
-
 1. Sign in to Hugging Face.
 2. Go to **Settings → Access Tokens**.
 3. Create a new token.
@@ -21,14 +20,12 @@ Before running the project, make sure you have:
 ---
 ### 2. Download the Project
 Place these files inside a folder:
-
 ```text
 app.py
 index.html
 requirements.txt
 ```---
 ### 3. Open Command Prompt
-
 Open Command Prompt inside your project folder.
 ---
  Create a Virtual Environment
@@ -73,6 +70,7 @@ http://127.0.0.1:7860
 ```
 
 You can now chat with Kimi K2.6 and upload images for analysis.
+
 ---
 ## Model
 
