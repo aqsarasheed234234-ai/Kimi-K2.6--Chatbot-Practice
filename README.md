@@ -75,7 +75,9 @@ You can now chat with Kimi K2.6 and upload images for analysis.
 ## Model
 
 ```text
+
 moonshotai/Kimi-K2.6:fireworks-ai
+
 ```
 
 Used through Hugging Face Router.
@@ -89,7 +91,9 @@ Used through Hugging Face Router.
 Make sure you ran:
 
 ```cmd
+
 set HF_TOKEN=your_token_here
+
 ```
 
 before starting the application.
@@ -97,15 +101,18 @@ before starting the application.
 ### Port already in use
 
 Close the application using port 7860 or restart your computer.
+ 
 
 ### Invalid Token
 
-Generate a new Hugging Face token and try again.
+ Generate a new Hugging Face token and try again.
+ 
 ---
 ## License
 
 MIT License
 
 Made with Python, FastAPI, Gradio, and Kimi K2.6.
+
 ---
 Made with ☕ and Python for developers who just want things to work.
