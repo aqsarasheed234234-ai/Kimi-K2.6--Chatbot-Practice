@@ -38,13 +38,14 @@ Activate it:
 
 ```cmd
 venv\Scripts\activate
-```
 
+```
 ---
  Install Dependencies
 
 ```cmd
 pip install -r requirements.txt
+
 ```
 ---
  Set Your Hugging Face Token
@@ -53,12 +54,15 @@ Replace `your_token_here` with your actual Hugging Face token.
 
 ```cmd
 set HF_TOKEN=your_token_here
+
 ```
 ---
+
  Run the Chatbot
 
 ```cmd
 python app.py
+
 ```
 ---
 ## Open the Application
@@ -67,11 +71,13 @@ Open your browser and visit:
 
 ```text
 http://127.0.0.1:7860
+
 ```
 
 You can now chat with Kimi K2.6 and upload images for analysis.
 
 ---
+
 ## Model
 
 ```text
