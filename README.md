@@ -53,6 +53,7 @@ pip install -r requirements.txt
 Replace `your_token_here` with your actual Hugging Face token.
 
 ```cmd
+
 set HF_TOKEN=your_token_here
 
 ```
@@ -61,15 +62,18 @@ set HF_TOKEN=your_token_here
  Run the Chatbot
 
 ```cmd
+
 python app.py
 
 ```
 ---
+
 ## Open the Application
 
 Open your browser and visit:
 
 ```text
+
 http://127.0.0.1:7860
 
 ```
@@ -114,6 +118,7 @@ Close the application using port 7860 or restart your computer.
  Generate a new Hugging Face token and try again.
  
 ---
+
 ## License
 
 MIT License
