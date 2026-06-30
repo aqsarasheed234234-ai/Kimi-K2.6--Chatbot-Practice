@@ -24,6 +24,7 @@ Before running the project, make sure you have:
 ---
 
 ### 2. Download the Project
+
 Place these files inside a folder:
 ```text
 app.py
@@ -33,6 +34,7 @@ requirements.txt
 ---
 
 ### 3. Open Command Prompt
+
 Open Command Prompt inside your project folder.
 
 ---
