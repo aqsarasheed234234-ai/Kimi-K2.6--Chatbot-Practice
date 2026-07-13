@@ -135,6 +135,5 @@ Close the application using port 7860 or restart your computer.
 MIT License
 
 Made with Python, FastAPI, Gradio, and Kimi K2.6.
-
 ---
 Made with ☕ and Python for developers who just want things to work.
