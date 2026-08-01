@@ -123,7 +123,6 @@ before starting the application.
 
 Close the application using port 7860 or restart your computer.
  
-
 ### Invalid Token
 
  Generate a new Hugging Face token and try again.
