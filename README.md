@@ -12,7 +12,6 @@ Before running the project, make sure you have:
 * A Hugging Face Access Token
   
 ---
-
 ## Quick Start
 
 ### 1. Get a Hugging Face Token
@@ -22,7 +21,6 @@ Before running the project, make sure you have:
 4. Copy your token.
    
 ---
-
 ### 2. Download the Project
 
 Place these files inside a folder:
