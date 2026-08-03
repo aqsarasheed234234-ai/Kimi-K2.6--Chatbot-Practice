@@ -18,8 +18,7 @@ Before running the project, make sure you have:
 1. Sign in to Hugging Face.
 2. Go to **Settings → Access Tokens**.
 3. Create a new token.
-4. Copy your token.
-   
+4. Copy your token.  
 ---
 ### 2. Download the Project
 
